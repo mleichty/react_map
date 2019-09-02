@@ -1,0 +1,44 @@
+{
+    "lancaster": {
+        "xLocation": 10,
+        "yLocation": 30,
+        "name": "Lancaster, PA",
+        "picture": "./images/lancaster.png",
+        "description": "This is the first place I lived."
+    },
+
+    "hockessin": {
+        "xLocation": 20, 
+        "yLocation": 40, 
+        "name": "Hockessin, DE", 
+        "picture": "./images/hockessin.png", 
+        "description": "This is the second place I lived."
+    },
+
+    "cincinnati": {
+        "xLocation": 30,
+        "yLocation": 50,
+        "name": "Cincinnati, OH",
+        "picture": "./images/cincinnati.png",
+        "description": "This is the third place I lived."
+    },
+
+    "charlotte": {
+        "xLocation": 40,
+        "yLocation": 60,
+        "name": "Charlotte, NC",
+        "picture": ".images/charlotte.png",
+        "description": "This is the fourth place I lived."
+    },
+
+    "indianapolis": {
+        "xLocation": 50,
+        "yLocation": 70,
+        "name": "Indianapolis, IN",
+        "picture": "./images/indianapolis.png",
+        "description": "This is the fifth place I lived."
+    }
+
+
+
+}
