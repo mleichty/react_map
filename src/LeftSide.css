@@ -1,0 +1,25 @@
+.leftSide {
+    text-align: center;
+    width: 30%;
+    background-color: darkcyan;
+    padding: 10px;
+    color: white;
+}
+
+/* button {
+    background-color: black;
+    padding: 15px;
+    border-radius: 50%;
+    border: 2px solid gray;
+    width: 30%;
+    cursor: pointer;
+    display: block;
+    margin: 0 auto;
+    color: white;
+} */
+
+button:hover {
+    background-color: white;
+    color: black;
+    transform: scale(1.15);
+}

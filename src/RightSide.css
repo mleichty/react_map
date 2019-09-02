@@ -1,0 +1,38 @@
+.rightSide {
+    width: 70%;
+    /* background-color: rgb(204, 0, 255); */
+    position: relative;
+    background-image: url("images/america.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+/* could I style image so points don't disappear when resized? */
+/* img {
+    width: 100%;
+} */
+
+/* how do I position points so that points don't disappear when screen is resized */
+/* this would have put points in a div and then I could position points within there
+but would have to change the x and y positions accordingly */
+/* .points {
+    position: relative;
+    top: 30%;
+    left: 65%;
+    width: 150px;
+    height: 130px;
+    background-color: rgba(164, 165, 247, 0.5);
+} */
+
+/* can't apply class because style overrides it in js file */
+/* .pins {
+    width: "40px";
+    height: "40px";
+    background-image: "url(" + "./images/pin.png" +")";
+    background-color: "#fff";
+    background-size: "cover";
+    background-repeat: "noRepeat";
+    background-position: "center";
+    position: "absolute"
+} */
